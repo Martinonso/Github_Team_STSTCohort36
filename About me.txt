@@ -1,0 +1,9 @@
+IT professional with a strong blend of data analysis, cloud services, and system administration experience, focused on delivering efficient and reliable technology solutions.
+
+Skilled in SQL, Python, MS Excel, and Microsoft Power BI for data analysis and reporting, with hands-on use of Jupyter Notebook for data exploration.
+
+Experienced in Microsoft 365 and cloud environments, including Exchange Online, SharePoint Online, OneDrive, Microsoft Teams, and Azure. Solid background in enterprise systems such as VMware vSphere, Windows Server, and Linux environments.
+
+I also provide reliable end-user support, including system troubleshooting, OS installation, network configuration, and hardware maintenance. On the Linux side, I focus on administration, shell scripting, and system security hardening.
+
+I am passionate about leveraging technology to solve problems, improve efficiency, and support business operations. Open to opportunities in Data Analysis, IT Support, and Cloud/Systems Administration.
