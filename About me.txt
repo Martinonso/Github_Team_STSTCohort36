@@ -1,9 +1,5 @@
-IT professional with a strong blend of data analysis, cloud services, and system administration experience, focused on delivering efficient and reliable technology solutions.
-
-Skilled in SQL, Python, MS Excel, and Microsoft Power BI for data analysis and reporting, with hands-on use of Jupyter Notebook for data exploration.
-
-Experienced in Microsoft 365 and cloud environments, including Exchange Online, SharePoint Online, OneDrive, Microsoft Teams, and Azure. Solid background in enterprise systems such as VMware vSphere, Windows Server, and Linux environments.
-
-I also provide reliable end-user support, including system troubleshooting, OS installation, network configuration, and hardware maintenance. On the Linux side, I focus on administration, shell scripting, and system security hardening.
-
-I am passionate about leveraging technology to solve problems, improve efficiency, and support business operations. Open to opportunities in Data Analysis, IT Support, and Cloud/Systems Administration.
+About Me
+As a QA Engineer with strong skills in software testing and quality assurance, I specialize in ensuring that applications are reliable, functional, and meet business requirements before release. I have hands-on experience in test case design, defect tracking, regression testing, API testing, and validating system behavior across different environments.
+I am highly detail-oriented and passionate about identifying issues early in the development cycle to improve product quality and user experience. I work comfortably with tools such as Postman for API testing, Jira for issue tracking, and I have a solid understanding of SDLC and STLC processes.
+Beyond testing, I also bring a strong analytical mindset that helps me understand system flows, troubleshoot complex issues, and collaborate effectively with developers and product teams to deliver high-quality software.
+I am continuously improving my technical skills and aim to grow into a more advanced QA Automation or Data-focused engineering role, contributing to scalable and efficient systems.
